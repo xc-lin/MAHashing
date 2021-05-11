@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/MAHashing/bits.c
+assert.h
+-
+string.h
+-
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/MAHashing/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/MAHashing/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/MAHashing/buckets.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+assert.h
+-
+math.h
+-
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/MAHashing/bits.h
+
